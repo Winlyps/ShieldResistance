@@ -1,0 +1,5 @@
+name: ShieldResistance
+version: '1.0.0'
+main: winlyps.shieldResistance.ShieldResistance
+api-version: '1.16'
+authors: [ Winlyps ]
